@@ -1,0 +1,129 @@
+,,,,
+Dialogue ID,9125,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+"Hello doctor, please see img_d9125-1. Would you please tell me its cause?",Sure. Do you have Lip swelling?,O O O O O B-Symptom O O O O O O O O O,Symptom,Skin rash
+"Yes, see img_d9125-2.",Are you also suffering from Shortness of breath?,O O O B-Syptom O,Symptom,Lip swelling
+"True, I am dealing with Shortness of breath.","Ok, have you got throat swelling?",O O O O O O B-Symptom I-Symptom I-Symptom O,Symptom,
+That is right.,"Okay, based on your symptoms, you might have Drug reaction.",O O O O,Affirmative,
+"Disease: Drug reaction, Group: 19",,,,
+,,,,
+Dialogue ID,1812,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+"Doctor, I am suffering from Fever.","Ok, have you got Skin rash too?",O O O O O O B-Symptom O,Symptom,
+You are correct.,Are you suffering from Vomiting?,O O O O,Affirmative,
+"Yes, doctor.",Do you have Mouth ulcer?,O O O O,Affirmative,
+I think so. See img_d1812-1.,Do you have Difficulty in swallowing?,O O O O O B-Symptom O,Symptom,Mouth ulcer
+"Exactly, I have Difficulty in swallowing.","Then, you might have Erythema multiforme.",O O O O B-Symptom I-Symptom I-Symptom O,Symptom,
+"Disease: Erythema multiforme, Group: 12",,,,
+,,,,
+Dialogue ID,22535,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+"Hello doctor, I am suffering from Blindness. Please, tell me its cause.","Ok. Tell me, are you having Diminished vision issues?",O O O O O O O B-Symptom O O O O O O O O,Symptom,
+"Yes, I have noticed Diminished vision.","Fine, have you got Symptoms of eye?",O O O O O B-Symptom I-Symptom O,Symptom,
+I have felt so.,"Alright, `I think you have Central retinal artery or vein occlusion.",O O O O O,Affirmative,
+"Disease: Central retinal artery or vein occlusion, Group: 7",,,,
+,,,,
+Dialogue ID,26439,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+"Hello doctor, please see img_d26439-1. Let me know its cause.","Ok, do you have Skin rash?",O O O O O B-Symptom O O O O O O O,Symptom,Skin lesion
+"Certainly, please have a look at it, img_d26439-2.","Fine, tell me, are you suffering from Swelling of scrotum?",O O O O O O O O O B-Symptom O,Symptom,Skin rash
+"Yes, doctor.",Alright. I think you have Acariasis.,O O O O,Affirmative,
+"Disease: Acariasis, Group: 1",,,,
+,,,,
+Dialogue ID,13025,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+"Doctor, I have experienced Diminished hearing. Would you please tell me its cause?","Sure. First tell me, do you got Ear pain?",O O O O O B-Symptom I-Symptom O O O O O O O O O,Symptom,
+"Indeed, doctor.",Have you seen Redness in ear.,O O O O,Affirmative,
+"Yes, see img_d13025-1.","Also, have you got Ringing in ear?",O O O B-Symptom O,Symptom,Redness in ear
+"For sure, I am struggling with it.",Are you also dealing with Difficulty speaking?,O O O O O O O O O,Affirmative,
+"Yes, I have got Difficulty speaking.","Fine, as per your symptoms, you have Conductive hearing loss.",O O O O O B-Symptom I-Symptom O,Symptom,
+"Disease: Conductive hearing loss, Group: 7",,,,
+,,,,
+Dialogue ID,15276,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+"Hello doctor, I am dealing with Itching of skin.","Alright, are you suffering from Diarrhea too?",O O O O O O O B-Symptom I-Symptom I-Symptom O,Symptom,
+"Literally, I have trouble with it.",Have you got Skin rash?,O O O O O O O O,Affirmative,
+"Yes, please see img_d15276-1.",I see. Have you observed Irritable infant?,O O O O B-Symptom O,Symptom,Skin rash
+"True, doctor.","Ok, based on your symptoms, you might have Diaper rash.",O O O O,Affirmative,
+"Disease: Diaper rash, Group: 12",,,,
+,,,,
+Dialogue ID,14480,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+"Hi doctor, I am suffering from the Itchiness of eye. Would you mind telling me its cause?","Sure, Do you have Pain in eye?",O O O O O O O O B-Symptom I-Symptom I-Symptom O O O O O O O O O,Symptom,
+"Literally, I have got it.","Ok, are you suffering from Eye redness?",O O O O O O O,Affirmative,
+"True, please see img_d14480-1.",Have you got Swollen eye?,O O O O B-Symptom O,Symptom,Eye redness
+"Indeed, see img_d14480-2.",Do you have Painful sinuses?,O O O B-Symptom O,Symptom,Swollen eye
+"True, I am dealing with it.","Alright, you might have Endophthalmitis.",O O O O O O O O,Affirmative,
+"Disease: Endophthalmitis, Group: 7",,,,
+,,,,
+Dialogue ID,15194,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+"Hi doctor, I have got Leg weakness.","Alright, have you got Loss of sensation too?",O O O O O O B-Symptom I-Symptom O,Symptom,
+"True, I have felt so.",Do you have Leg or finger pain?,O O O O O O O,Affirmative,
+"Yes, I have got Leg or finger pain.",Are you suffering from Weakness?,O O O O O B-Symptom I-Symptom I-Symptom I-Symptom O,Symptom,
+"So true, I have got it.",Are you suffering from Problems with movement?,O O O O O O O O,Affirmative,
+"Indeed, I am struggling with it.",Have you got Facial pain?,O O O O O O O O,Affirmative,
+"Yes, I have facial pain too.","Fine, you are suffering from Guillain Barre syndrome.",O O O O B-Symptom I-Symptom O O,Symptom,
+,,,,
+Dialogue ID,19349,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+"Doctor, I am suffering from Allergic reaction.","Fine, have you got Skin rash too?",O O O O O O B-Symptom I-Symptom O,Symptom,
+"Yes, please see img_d19349-1.","Alright, do you have Skin dryness, peeling, scaliness, or roughness?",O O O O B-Symptom O,Symptom,Skin rash
+"Indeed, see img_d19349-2.","Ok, based on symptoms, you might have Eczema.",O O O B-Symptom O,Symptom,"Skin dryness, peeling, scaliness, or roughness"
+"Disease: Eczema, Group: 12",,,,
+,,,,
+,,,,
+Dialogue ID,3842,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+"Hi doctor, please see img_d3842-1.",Are you suffering from Knee pain?,O O O O O B-Symptom O,Symptom,Skin growth
+That is true.,Do you have Knee lump or mass?,O O O O,Affirmative,
+"Right, doctor.",Have you got Knee swelling?,O O O O,Affirmative,
+"Certainly, see img_d3842-2.",You may have Ganglion cyst.,O O O B-Symptom O,Symptom,Knee swelling
+,,,,
+Dialogue ID,18738,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+"Hello doctor, I have trouble with Eye burns or stings. ",Do you feel Pain in eye?,O O O O O O O B-Symptom I-Symptom I-Symptom I-Symptom O,Symptom,
+You are correct.,Have you got Eye redness?,O O O O,Affirmative,
+"For sure, please have a look at my eye, img_d18738-1.",Oh! I see. Are you also suffering from Swollen eye?,O O O O O O O O O O O B-Symptom O,Symptom,Eye redness
+"Yes, I have got it.",Do you have trouble with Lacrimation?,O O O O O O O,Affirmative,
+"Exactly, doctor.",Have you felt Itchiness or eye?,O O O O,Affirmative,
+"Indeed, I have felt Itchiness of eye.",Your symptoms analysis suggest that you have Corneal abrasion.,O O O O O B-Symptom I-Symptom I-Symptom O,Symptom,
+"Disease: Corneal abrasion, Group: 19",,,,
+,,,,
+Dialogue ID,12211,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+I am struggling with Knee pain.,Have you got Foot or toe pain?,O O O O B-Symptom I-Symptom O,Symptom,
+"Yes, you are correct.",Are you also suffering from Foot or toe swelling?,O O O O O O,Affirmative,
+"For sure, see img_d12211-1.",Do you have Wrist pain?,O O O O B-Symptom O,Symptom,Foot or toe swelling
+"Right, I am enduring Wrist pain too.",It seems like you have Gout.,O O O O O B-Symptom I-Symptom O O,Symptom,
+"Disease: Gout, Group: 13",,,,
+,,,,
+Dialogue ID,18049,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+"Hi doctor, I have got Loss of sensation.",Do you have Disturbance of memory?,O O O O O O B-Symptom I-Symptom I-Symptom O,Symptom,
+"True, I am suffering from it.",Are you dealing with Depressive or psychotic symptoms?,O O O O O O O,Affirmative,
+"Definitely, I am struggling with it.",Have you got Paresthesia?,O O O O O O O O,Affirmative,
+"Yes, doctor.",Are you suffering from Lip swelling?,O O O O,Affirmative,
+"True, see img_d18049-1.","Ok, have you got Itchy eyelid?",O O O B-Symptom O,Symptom,Lip swelling
+"Indeed, see img_d18049-2.",Have you got Elbow weakness?,O O O B-Symptom O,Symptom,Itchy eyelid
+"Right, I have got Elbow weakness.","Ok, I think you might have Factitious disorder.",O O O O O B-Symptom I-Symptom O,Symptom,
+"Disease: Factitious disorder, Group: 5",,,,
+,,,,
+Dialogue ID,25428,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+"Hello doctor, I see Spots or clouds in vision.","Ok, have you got Lacrimation?",O O O O O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom O,Symptom,
+"Right, I am sickened with Lacrimation.",Do you have Pain in eye?,O O O O O O B-Symptom O,Symptom,
+"True, doctor.",Have you suffered from Abnormal movement of eyelid?,O O O O,Affirmative,
+"Indeed, I have trouble with Abnormal movement of eyelid.",Have you got Eyelid lesion or rash?,O O O O O O B-Symptom I-Symptom I-Symptom I-Symptom O,Symptom,
+"Certainly, see img_d25428-1.",Have you felt Foreign body sensation in eye?,O O O B-Symptom O,Symptom,Eyelid lesion or rash
+That is right.,Have you got Swollen eye?,O O O O,Affirmative,
+"True, see img_d25428-2.",Do you feel Itchiness of eye?,O O O B-Symptom O,Symptom,
+"Yes, doctor.",Your symptoms suggest that you have Ectropion.,O O O O,Affirmative,Swollen eye
+"Disease: Ectropion, Group: 7",,,,
+,,,,
+Dialogue ID,16427,,,
+Patient,Doctor,Symptom,Intent type,Image Information
+Hi doctor. Please tell me the cause of my Dizziness?,Sure. are you suffering from Diminished hearing?,O O O O O O O O O O B-Symptom O,Symptom,
+"Yes, I am dealing with Diminished hearing.","OK, do you feel Ringing in ear?",O O O O O O B-Symptom I-Symptom O,Symptom,
+"Sometimes, I feel Ringing in ear.","Alright, have you got Swollen or red tonsils? Open your mouth.",O O O O B-Symptom I-Symptom I-Symptom O,Symptom,
+"Yes, see img_d16427-1.",Fine. Your symptoms analysis suggests that you have Conductive hearing loss.,O O O B-Symptom O,Symptom,Swollen or red tonsils
