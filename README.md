@@ -29,7 +29,6 @@ We provide the dataset for research and academic purposes. To request access to 
 ## Citation Information 
 If you find this code useful in your research, please consider citing:
 ~~~~
-
 @inproceedings{tiwari2022dr,
   title={Dr. can see: towards a multi-modal disease diagnosis virtual assistant},
   author={Tiwari, Abhisek and Manthena, Manisimha and Saha, Sriparna and Bhattacharyya, Pushpak and Dhar, Minakshi and Tiwari, Sarbajeet},
