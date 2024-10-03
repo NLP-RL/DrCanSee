@@ -1,4 +1,4 @@
-### Dr. Can See: Towards a Multi-modal Disease Diagnosis Virtual Assistant
+# Dr. Can See: Towards a Multi-modal Disease Diagnosis Virtual Assistant
 
 The repository contains code for research article titled 'Dr. Can See: Towards a Multi-modal Disease Diagnosis Virtual Assistant' published at 31st ACM International Conference on Information and Knowledge Management (CIKM 2022).
 
@@ -10,11 +10,9 @@ Artificial Intelligence-based clinical decision support is gaining ever-growing 
 
 #### Full Paper: https://www.cse.iitb.ac.in/~pb/papers/cikm22-dr-see.pdf
 
-# Request Access to the Dataset
+### Access to the Dataset
 
 We provide the dataset for research and academic purposes. To request access to the dataset, please follow the instructions below:
-
-## How to Access the Dataset
 
 1. **Fill Out the Request Form**: To access the dataset, you need to submit a request through our [Google Form](https://forms.gle/C5q7jDprPGsCuYcD6).
 
@@ -26,7 +24,7 @@ We provide the dataset for research and academic purposes. To request access to 
     - Attribute the creators of this resource in any works (publications, presentations, or other public dissemination) utilizing the dataset.
     - Not disseminate the dataset without prior permission from the appropriate authorities.
 
-## Citation Information 
+### Citation Information 
 If you find this code useful in your research, please consider citing:
 ~~~~
 @inproceedings{tiwari2022dr,
